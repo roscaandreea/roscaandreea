@@ -10,6 +10,7 @@
 [![](https://img.shields.io/badge/-MaterialUI-46a2f1?style=flat-square&logo=materialui&logoColor=white)](https://material-ui.com/)
 [![](https://img.shields.io/badge/-Boostrap-1a73e8?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![](https://img.shields.io/badge/-Google_Cloud_Platform-007ACC?style=flat-square&logo=google-cloud&logoColor=white)](https://console.cloud.google.com/)
+[![](https://img.shields.io/badge/-TypeScript-5849BE?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 
 
