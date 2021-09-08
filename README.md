@@ -7,8 +7,10 @@
 
 ### Some technologies I enjoy working with include:
 [![](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white%22)](https://reactjs.org/docs/getting-started.html)
-[![](https://img.shields.io/badge/-Bootstrap-46a2f1?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![](https://img.shields.io/badge/-MaterialUI-46a2f1?style=flat-square&logo=materialui&logoColor=white](https://material-ui.com/)
+[![](https://img.shields.io/badge/-MaterialUI-46a2f1?style=flat-square&logo=materialui&logoColor=white)](https://material-ui.com/)
+[![](https://img.shields.io/badge/-Boostrap-1a73e8?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+
 
 
 
