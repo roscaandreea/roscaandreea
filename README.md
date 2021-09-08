@@ -30,10 +30,10 @@
 [![](https://img.shields.io/badge/-Matplotlib-006400?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![](https://img.shields.io/badge/-Github_pages-222?style=flat-square&logo=github_pages&logoColor=white)](https://pages.github.com/)
 
-### <div align="left"><img src="octoandreea/octoandreea.gif" width="120px" height="150px">Find me around the web :earth_americas: :
+### <div align="center"><img src="octoandreea/octoandreea.gif" width="120px" height="150px">Find me around the web :earth_americas: : </div>
 * Find a complete list of interests on [Linkedin](https://www.linkedin.com/in/andreea-maria-rosca-6bb501140/) :mag_right:
 * Sharing updates about new projects in [Portofolio](https://roscaandreea.github.io/myPortofolio/) :bulb:
-* Tinkering with interactions on [Codepan](https://codepen.io/roschy/) :sparkles: </div>
+* Tinkering with interactions on [Codepan](https://codepen.io/roschy/) :sparkles:
 
 
 
