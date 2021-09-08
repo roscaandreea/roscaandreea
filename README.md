@@ -6,4 +6,4 @@
 #### Over time I also offered a lot of attention to data visualization :bar_chart: and machine learning, passions that I discovered  during my Computer Science bachelor studies.A more details about this aspect can be found on my [portofolio](https://roscaandreea.github.io/myPortofolio/) and [linkedin](https://www.linkedin.com/in/andreea-maria-rosca-6bb501140/).
 
 ### Some technologies I enjoy working with include:
- [![](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white%22)](https://reactjs.org/docs/getting-started.html)
+#### [![](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white%22)](https://reactjs.org/docs/getting-started.html)
