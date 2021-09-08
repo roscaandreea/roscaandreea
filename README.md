@@ -30,7 +30,7 @@
 [![](https://img.shields.io/badge/-Matplotlib-006400?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![](https://img.shields.io/badge/-Github_pages-222?style=flat-square&logo=github_pages&logoColor=white)](https://pages.github.com/)
 
-## <img src="octoandreea/octoandreea.gif" width="120px" height="150px"><div align="top">Find me around the web :earth_americas: :</div>
+## ![octoandreea](https://user-images.githubusercontent.com/17887606/132590826-66dada86-cbaa-4afe-93a8-7ceb7e84f671.gif)<div align="top">Find me around the web :earth_americas: :</div>
 
 
 
