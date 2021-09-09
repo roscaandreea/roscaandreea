@@ -35,7 +35,7 @@
 * Sharing updates about new projects in [Portofolio](https://roscaandreea.github.io/myPortofolio/) :bulb:
 * Tinkering with interactions on [Codepan](https://codepen.io/roschy/) :sparkles: </div>
 
-
+| ![Flowers](octoandreea/octoandreea.gif) | I am text to the right |
 
 
 
