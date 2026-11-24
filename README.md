@@ -1,52 +1,35 @@
-<div align="center">
+ 
+# Hi, I'm Andreea 🌷
 
-# Hi, I'm Andreea! 🌷
+**Flutter Developer | iOS · Android · Web**
 
-### Flutter Developer · Cross-platform app enthusiast ✨
+I build cross-platform applications with Flutter, with a focus on creating reliable, intuitive experiences that feel right on every platform.
 
-*Building thoughtful digital experiences, one widget at a time.*
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-222222?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Web](https://img.shields.io/badge/Web-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreea-maria-rosca-6bb501140/) 
-[![Portfolio](https://img.shields.io/badge/Explore_my_work-Portfolio-EAAAC8?style=flat-square&logo=safari&logoColor=white)](https://roscaandreea.github.io/myPortofolio/)
-
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-333333?style=flat-square&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Web](https://img.shields.io/badge/Web-777777?style=flat-square&logo=googlechrome&logoColor=white)
 
 ---
 
-### 🧸 A little about me
+### A bit about me
 
-I'm a **Flutter developer with around 4 years of experience** building applications for **iOS, Android, and the web**.
+I've been working with Flutter for around four years, mostly on applications in the **banking and fintech space**.
 
-Much of my work has been in the **banking and fintech domain**, where I focus on making complex experiences feel clear, intuitive, and easy to use. I care about clean code, thoughtful UI, smooth interactions, and products that people can rely on.
+I enjoy the balance between solving technical challenges and paying attention to the small details that make an app pleasant to use. From building reusable components to refining a UI, I like writing code that's easy to maintain and building things that make sense for the people using them.
 
-I love the little details that turn a working feature into a lovely experience. 💗
+I'm always curious about better ways to approach a problem, new things to learn, and how to make the next project a little better than the last.
 
-### 🛠️ My everyday toolkit
+### What I work with
 
-- **Core:** Flutter · Dart
-- **Platforms:** iOS · Android · Web
-- **What I enjoy:** Cross-platform development · UI craftsmanship · User-friendly experiences
-- **Domain experience:** Banking & fintech
+| | |
+|---|---|
+| **Development** | Flutter, Dart |
+| **Platforms** | iOS, Android, Web |
+| **Experience** | Banking & fintech applications |
+| **Interests** | Clean architecture, UI/UX, cross-platform development |
 
-### ☕ Outside the code
+### Find me elsewhere
 
-Always curious, always learning, and probably noticing tiny UI details that nobody else asked me to notice. ✨
+[LinkedIn](https://www.linkedin.com/in/andreea-maria-rosca-6bb501140/) · [Portfolio](https://roscaandreea.github.io/myPortofolio/)
 
-### 💌 Let's connect
+---
 
-I'm always happy to connect with people who love building useful, beautiful things.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/andreea-maria-rosca-6bb501140/) — *refresh coming soon!*
-- 🎨 [Portfolio](https://roscaandreea.github.io/myPortofolio/) — *refresh coming soon!*
-
-<div align="center">
-
-*Thanks for stopping by! Have a lovely day 🌸*
-
-</div>
+*Thanks for stopping by! ☕*
