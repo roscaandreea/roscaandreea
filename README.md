@@ -13,7 +13,7 @@
 ![Web](https://img.shields.io/badge/Web-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreea-maria-rosca-6bb501140/) 
-[![Portfolio](https://img.shields.io/badge/Explore_my_work-Portfolio-EAAAC8?style=flat-square&logo=safari&logoColor=white)](https://roscaandreea.github.io/myPortofolio/)
+[![Portfolio](https://img.shields.io/badge/Explore_my_work-Portfolio-EAAAC8?style=flat-square&logo=safari&logoColor=white)](https://roscaandreea.github.io/beyond-platforms/)
 
 </div>
 
@@ -43,7 +43,7 @@ Always curious, always learning, and probably noticing tiny UI details that nobo
 I'm always happy to connect with people who love building useful, beautiful things.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andreea-maria-rosca-6bb501140/) — *refresh coming soon!*
-- 🎨 [Portfolio](https://roscaandreea.github.io/myPortofolio/) — *refresh coming soon!*
+- 🎨 [Portfolio](https://roscaandreea.github.io/beyond-platforms/)
 
 <div align="center">
 
